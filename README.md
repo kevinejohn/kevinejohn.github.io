@@ -1,2 +1,2 @@
 # Github.io page
-[see it live](https://snooze-doo.github.io/)
+[see it live](https://kevinejohn.github.io/moneybutton)
